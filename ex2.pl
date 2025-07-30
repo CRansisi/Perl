@@ -1,0 +1,21 @@
+my $x = 34;
+my $y = 22;
+print "x = $x \ny = $y\n";
+
+my $str = "ACGAGAGCGTGT";
+print length($str);
+print "\n";
+print ($str);
+print "\n";
+print lc($str);
+print "\n";
+print uc($str);
+print "\n";
+print lcfirst($str);
+print "\n";
+print ucfirst($str);
+print "\n";
+print chop($str);
+print "\n";
+print ($str);
+print "\n";
